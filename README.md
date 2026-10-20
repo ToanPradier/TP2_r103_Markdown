@@ -19,4 +19,5 @@ avec nos propre sprites,disigne,histoire et mécanique
 - *En cour de production...*
 ## Traveaux en cours et taches a faire:
 1. premier concepts arts
-2. 
+2. gestion des dépacements des personages
+3. gestion d'obstacle
